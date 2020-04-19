@@ -4,7 +4,7 @@ This was inspired and taught by [Dev Ed](https://www.youtube.com/channel/UClb90N
 
 This project was bootstrapped with Create React App.
 
-Note: Does not contain node_modules.
+Note: Repository does not contain node_modules.
 
 ## Available Scripts
 
