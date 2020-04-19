@@ -1,6 +1,6 @@
-This is a Recipe Finder App using an API by [Edamam](https://www.edamam.com/). This API supports only a finite number of fetches in a period of time. If you face an error while fetching the information, you can be assured that the error will go away after a few minutes.
+This is a Recipe Finder App using an API by [Edamam](https://www.edamam.com/){:target="_blank"}. This API supports only a finite number of fetches in a period of time. If you face an error while fetching the information, you can be assured that the error will go away after a few minutes.
 
-This was inspired and taught by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) on YouTube. 
+This was inspired and taught by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q){:target="_blank"} on YouTube. 
 
 This project was bootstrapped with Create React App.
 
