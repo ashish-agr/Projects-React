@@ -1,3 +1,4 @@
+This is a simple Tic-Tac-Toe game with an AI that simply picks a random square to fill.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Note: Does not contain node_modules.
